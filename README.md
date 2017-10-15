@@ -1,2 +1,2 @@
-# ImageGallery-Android
+# ImageViewer-Android
 A simple image gallery app
